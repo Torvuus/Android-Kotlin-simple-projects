@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projekt1kot</string>
+    <string name="text_hint">Enter something</string>
+    <string name="button_text_send">Send</string>
+</resources>

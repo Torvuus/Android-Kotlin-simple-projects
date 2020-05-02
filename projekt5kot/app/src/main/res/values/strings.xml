@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">projekt5</string>
+    <string name="first_arg">First argument</string>
+    <string name="second_arg">Second argument</string>
+    <string name="op_dp">Operation</string>
+    <string name="result_dp">Result</string>
+    <string name="standard_txt">none</string>
+    <string name="btn_txt">Run</string>
+</resources>

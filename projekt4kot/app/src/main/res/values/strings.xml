@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projekt4</string>
+    <string name="frame_layout_btn_txt">Frame Layout</string>
+    <string name="linear_layout_btn_txt">Linear Layout</string>
+    <string name="table_layout_btn_txt">Table Layout</string>
+    <string name="grid_layout_btn_txt">Grid Layout</string>
+    <string name="relative_layout_btn_txt">Relative Layout</string>
+</resources>

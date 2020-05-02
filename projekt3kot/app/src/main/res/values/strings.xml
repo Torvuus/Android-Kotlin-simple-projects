@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">projekt3</string>
+    <string name="st_activity_button1_name">Go to second activity</string>
+    <string name="st_activity_button2_name">Exit</string>
+    <string name="nd_activity_button_name">Go to third activity</string>
+    <string name="rd_activity_sample_txt">enter some text here</string>
+</resources>
